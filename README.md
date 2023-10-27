@@ -1,7 +1,19 @@
 # Super-hero-Api
 host-link --https://adarshkumar3.github.io/Super-hero-Api/
-####Table Contains##
+
+
+
+####TABLE CONTAINS##
+
+
 [Technology used]_(#technologyused),
+
+
+
+
+
+
+
 • Developed responsive web app for browsing Marvel heroes using
 front-end technologies (HTML, CSS, JavaScript).
 • Integrated API for fetching and displaying hero information, with the
